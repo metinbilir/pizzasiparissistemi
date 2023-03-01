@@ -136,7 +136,7 @@ def main():
 
           #seçimler sonrası toplam fiyatın hesaplanması
           toplam_fiyat = sos.get_cost()
-          print("Toplam Fiyat: ", toplam_fiyat)  
+          print("Toplam Fiyat: ", toplam_fiyat , "TL")  
 
           #Müşterilerden kendi bilgilerini girmelerini istedim
           isim = input(" Lütfen İsminizi girin: ")
