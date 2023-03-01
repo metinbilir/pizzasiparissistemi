@@ -1,0 +1,12 @@
+Lütfen bir pizza tabaný Seçiniz:
+1: Klasik
+2: Margarita
+3: Türk Pizzasý
+4: Sade Pizza
+Seçebileceðiniz Soslar:
+11: Zeytin
+12: Mantarlar
+13: Keçi Peyniri
+14: Et
+15: Soðan
+16: Mýsýr
