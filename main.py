@@ -3,6 +3,7 @@ import csv
 import datetime
 
 #farklı kaynaklardan'da teyit ederek menü.txt', aşağıda ki gibi oluşturdum.
+#
 
 menu = open("Menu.txt", "w")
 menu.write("Lütfen bir pizza tabanı Seçiniz:\n")
